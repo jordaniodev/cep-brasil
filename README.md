@@ -1,8 +1,8 @@
 # Cep Brasil
 
-![](http://oi63.tinypic.com/dqojlx.jpg)
-
 Projeto que tem o intuito de disseminar e tornar público todos os CEPS brasileiros nos sistemas de gerenciamento de banco de dados mais usados do mercado :)
+
+![](http://oi63.tinypic.com/dqojlx.jpg)
 
   - Estados
   - Cidades
