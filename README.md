@@ -57,13 +57,14 @@ SqlServer:
 
 ### Todos
 
- - Write MORE Tests
- - Add Night Mode
+ - Migrar para [postGree]
+ - Migrar para [sqlLite]
+ - Migrar para [mongoDb]
+ - Migrar para [sqlServer]
 
 Licenças
 ----
 
-MIT
 
 
 **Banco de Dados Gratuito :)**
