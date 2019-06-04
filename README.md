@@ -34,25 +34,25 @@ Para iniciar a utilizacão da nossa base de dados de cep, se você ainda nao tiv
 
 Mysql:
 ```sql
- CREATE DATABASE crep-brasil; 
+ CREATE DATABASE cep-brasil; 
 ```
 
 PostGree:
 ```sql
- CREATE DATABASE crep-brasil; 
+ CREATE DATABASE cep-brasil; 
 ```
 
 sqlLite:
 ```sql
- CREATE DATABASE crep-brasil; 
+ CREATE DATABASE cep-brasil; 
 ```
 Mongo Db:
 ```sql
- CREATE DATABASE crep-brasil; 
+ CREATE DATABASE cep-brasil; 
 ```
 SqlServer:
 ```sql
- CREATE DATABASE crep-brasil; 
+ CREATE DATABASE cep-brasil; 
 ```
 
 ### Todos
