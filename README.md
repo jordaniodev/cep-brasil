@@ -2,7 +2,6 @@
 
 Projeto que tem o intuito de disseminar e tornar público todos os CEPS brasileiros nos sistemas de gerenciamento de banco de dados mais usados do mercado :)
 
-
   - Estados
   - Cidades
   - Bairros
@@ -13,6 +12,9 @@ Projeto que tem o intuito de disseminar e tornar público todos os CEPS brasilei
   - Atualizado em 6 a 6 meses.
   - Completamente gratis.
 
+
+## Schema
+![Alt text](http://8pixel.com.br/github/readme-imgs/Cima.png "Pessoa olhando para cima") <br>
 
 ### SGBD
 
