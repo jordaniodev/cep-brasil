@@ -14,7 +14,7 @@ Projeto que tem o intuito de disseminar e tornar público todos os CEPS brasilei
 
 
 ## Schema
-![Alt text](http://8pixel.com.br/github/readme-imgs/Cima.png "Pessoa olhando para cima") <br>
+![Alt text](mysql/cepbrasil-schema.png "Pessoa olhando para cima") <br>
 
 ### SGBD
 
